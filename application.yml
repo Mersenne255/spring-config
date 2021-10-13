@@ -1,0 +1,4 @@
+# Property used on app startup to check the config server status
+configserver:
+  name: Mgear Config server
+  status: Connection to Mgear Config server OK!
